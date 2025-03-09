@@ -1,5 +1,6 @@
 import csv
 
+# dictionaries help keep track of the all scores easily
 scores = {}
 students = {}
 filename = 'student.csv'
